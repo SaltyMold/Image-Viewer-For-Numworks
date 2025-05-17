@@ -15,7 +15,7 @@ _This app is an **Image viewer** that runs on the **[NumWorks Calculator](https:
 ## Install the app
 
 To install this app, you'll need to:
-1. Go to this page I have Created
+1. Go to this page I have Created https://saltymold.github.io/Image-Viewer-For-Numworks/
 2. Upload your Image
 3. And you'r Done, just Click Install and Enjoy
 

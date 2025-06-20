@@ -12,7 +12,7 @@
 
 _This app is an **Image viewer** that runs on the **[NumWorks Calculator](https://www.numworks.com)**, allowing users to watch the image that they have installed on it._
 
-## ⚙️ Install the app
+## 📕 Install the app
 
 To install this app, you'll need to:
 1. Go to this page I have Created : https://saltymold.github.io/Image-Viewer-For-Numworks/
@@ -23,7 +23,7 @@ To install this app, you'll need to:
 Supported Image Formats are :
 -PNG    -JPEG    -AVIF    -BMP    -WEBP
 
-## 📕 How to use the app
+## ⚙️ How to use the app
 
 Just open the Application on your Calculator, to exit press ON/OFF HOME or BACK
 

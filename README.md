@@ -23,7 +23,7 @@ To install this app, you'll need to:
 Supported Image Formats are :
 -PNG    -JPEG    -AVIF    -BMP    -WEBP
 
-## How to use the app
+## 📕 How to use the app
 
 Just open the Application on your Calculator, to exit press ON/OFF HOME or BACK
 

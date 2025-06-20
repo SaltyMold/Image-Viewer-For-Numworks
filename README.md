@@ -12,7 +12,7 @@
 
 _This app is an **Image viewer** that runs on the **[NumWorks Calculator](https://www.numworks.com)**, allowing users to watch the image that they have installed on it._
 
-## Install the app
+## ⚙️ Install the app
 
 To install this app, you'll need to:
 1. Go to this page I have Created : https://saltymold.github.io/Image-Viewer-For-Numworks/
@@ -27,7 +27,7 @@ Supported Image Formats are :
 
 Just open the Application on your Calculator, to exit press ON/OFF HOME or BACK
 
-## Build the app
+## 🛠️ Build the app
 
 ### Requirements:
 
@@ -107,7 +107,7 @@ make clean && make build
 
 You should now have a **`output/app.nwa` file** that you can distribute! Anyone can now install it on their calculator from the **[NumWorks online uploader](https://my.numworks.com/apps)**.
 
-## Build your own app
+## 🛠️ Build your own app
 
 To build your own app, start by cloning the repository:
 
@@ -117,7 +117,7 @@ git clone https://github.com/SaltyMold/Image-Viewer-For-Numworks.git
 Inside the project, you'll find **`eadk.h`**, which provides **essential functions** for interacting with the **[calculator](https://en.wikipedia.org/wiki/NumWorks)**. Modify **`main.c`** to implement your **own code**.
 Additionally, make sure to include an **`icon.png`** with dimensions **55×56 pixels** to serve as your **app’s icon**. Once your modifications are done, link the app with **[nwlink](https://www.npmjs.com/package/nwlink)** and enjoy your app!
 
-## Special thanks 
+## 🌟 Special thanks 
 
 I followed the guide from **[epsilon-sample-app-c](https://github.com/numworks/epsilon-sample-app-c)** to build this app.
 
